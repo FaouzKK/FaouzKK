@@ -44,4 +44,4 @@ Je suis ou plutot je m'entraine a devenir un devellopeur fullStack du Togo <img 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=FaouzKK&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaouzKK&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
